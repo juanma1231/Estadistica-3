@@ -17,3 +17,6 @@
 
 ### solucion 1.5 Explica la relación entre covarianza y correlación
 - Si la covarianza es positiva, la correlación será directa. Si la covarianza es negativa, la correlación será inversa, para nuestro caso, tenemos una covarianza y correlacion negativas, por ende podemos decir que la relacion entre las variables es inversa
+
+### Solucion punto 1.6
+![k-means](./imagenes/1.6.jpg)
